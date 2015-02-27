@@ -1,0 +1,3 @@
+the mv command moves a file by way of listing first the file name and then the dirctory where the file should be moved
+example comand line syntax: 
+mv [file name] [directory]
