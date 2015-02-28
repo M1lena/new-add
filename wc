@@ -1,0 +1,7 @@
+wc, or word count, prints counts for words, lines, characters, bytes
+
+-c -- prints the byte counts
+-m -- prints the character counts
+-l -- prints the newline counts
+-L -- prints the length of the longest line
+-w -- prints the word counts
